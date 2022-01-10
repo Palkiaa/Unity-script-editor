@@ -1,0 +1,12 @@
+{
+  "name": "com.telroshan.unityscripteditor",
+  "version": "1.0.0",
+  "displayName": "Unity-script-editor",
+  "description": "This tool provides a simple script editor inside Unity, for those times you just want to make a quick change to your script without opening your IDE.",
+  "unity": "2020.3",
+  "hideInEditor": true,
+  "author": {
+    "name": "Telroshan",
+    "url": "https://github.com/Telroshan"
+  }
+}
